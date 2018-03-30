@@ -1,0 +1,6 @@
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\bin\Ribbit.dll.config
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\bin\Ribbit.dll
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\bin\Ribbit.pdb
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\obj\Debug\Ribbit.csprojResolveAssemblyReference.cache
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\obj\Debug\Ribbit.dll
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\obj\Debug\Ribbit.pdb

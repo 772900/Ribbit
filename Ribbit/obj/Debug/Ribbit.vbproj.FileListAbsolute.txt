@@ -1,0 +1,8 @@
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\bin\Ribbit.dll
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\bin\Ribbit.pdb
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\bin\Ribbit.xml
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\obj\Debug\Ribbit.Resources.resources
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\obj\Debug\Ribbit.vbproj.GenerateResource.Cache
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\obj\Debug\Ribbit.dll
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\obj\Debug\Ribbit.xml
+C:\Users\Keenan\documents\visual studio 2013\Projects\Ribbit\Ribbit\obj\Debug\Ribbit.pdb
